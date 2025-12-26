@@ -1,0 +1,6 @@
+1.1.0
+- Universal framework bridge for FiveM
+- Fixed QBX Core direct exports
+- Supports QBX Core, QB-Core, ESX, OX Core
+- Inventory system bridge
+- Download: https://github.com/SelfishEagle/se-bridge/releases/latest
