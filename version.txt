@@ -3,4 +3,7 @@
 - Fixed QBX Core direct exports
 - Supports QBX Core, QB-Core, ESX, OX Core
 - Inventory system bridge
+- Fixed QBX gang detection
+- Added new exports
+- Performance improvements
 - Download: https://github.com/SelfishEagle/se-bridge/releases/latest
